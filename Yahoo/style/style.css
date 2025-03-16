@@ -13,3 +13,14 @@
     align-items: baseline;
     gap: 4px;
 }
+
+.search-container {
+    padding-top: 16px;
+    text-align: center;
+}
+
+.ready-searches {
+    padding-top: 16px;
+    text-align: center;
+    font-size: small;
+}
