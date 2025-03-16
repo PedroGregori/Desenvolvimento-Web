@@ -1,0 +1,15 @@
+.mainLogo {
+    padding-top: 1px;
+    display: block;
+    margin: 0 auto;
+    width: 447px;
+    height: 57px;
+}
+
+.downIMG {
+    padding-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 4px;
+}
